@@ -8,6 +8,5 @@
 2. Find standard deviation of simulation results in number of samples function
 3. Plot results of simulation depending on dimensions of sine calculus
 4. Do the same for ranlux() generated samples
-in genere
-*in generate_ranlux.cpp*
+*in generate_ranlux.cpp*    
 5. Measure time for random() generation and ranlux generation of 1.000.000 samples
